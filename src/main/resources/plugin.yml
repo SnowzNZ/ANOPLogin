@@ -1,0 +1,10 @@
+name: ANOPLogin
+version: '${project.version}'
+main: dev.snowz.anoplogin.ANOPLogin
+api-version: '1.21'
+author: Snowz
+commands:
+  login:
+    description: ANOPLogin command
+  logout:
+    description: ANOPLogin command
